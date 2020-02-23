@@ -1,4 +1,4 @@
-# Hello :laughing: , we are code blenders. This is the midterm project for Brown DSI Data2040 class. 
+# Hello :laughing: , we are Code Blenders. This is the midterm project for Brown DSI Data2040 class. 
 
 Written by: Guansu, Shiqi, Tongxin :cat:
 
