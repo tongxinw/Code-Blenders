@@ -50,5 +50,5 @@ From this point, we will:
 [https://www.kaggle.com/gpreda/bengali-ai-handwritten-grapheme-getting-started](https://www.kaggle.com/gpreda/bengali-ai-handwritten-grapheme-getting-started)
 
 
-## Stay tunes, until next blog post! :star:
+## Stay tuned, until next blog post! :star:
 
