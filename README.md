@@ -1,6 +1,6 @@
-# Hello :laughing: , we are Code Blenders. This is the midterm project for Brown DSI Data2040 class. 
+# Hello :laughing: , we are Code Blenders :cyclone:. This is the midterm project for Brown DSI Data2040 class. 
 
-Written by: Guansu, Shiqi, Tongxin :cat:
+Written by: Guansu :space_invader:, Shiqi :cherry_blossom:, Tongxin :cat:
 
 ## Bengali.AI Handwritten Grapheme Classification
 
