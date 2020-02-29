@@ -1,6 +1,6 @@
 # Hello :laughing: , we are Code Blenders :cyclone:. This is the midterm project for Brown DSI Data2040 class. 
 
-Written by: [Guansu :space_invader:](https://www.linkedin.com/in/guansu-frances-niu-196094112/), [Shiqi :cherry_blossom:](https://www.linkedin.com/in/shiqi-lei-808a53104/), [Tongxin :icecream:](https://www.linkedin.com/in/tongxinwang/)
+Written by: [Guansu :space_invader:](https://www.linkedin.com/in/guansu-frances-niu-196094112/), [Shiqi :cherry_blossom:](www.linkedin.com/in/shiqi-lei), [Tongxin :icecream:](https://www.linkedin.com/in/tongxinwang/)
 
 ## Bengali.AI Handwritten Grapheme Classification
 
